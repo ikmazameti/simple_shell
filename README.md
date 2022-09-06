@@ -327,7 +327,7 @@ $
 
 👤 **Benard Gomashie**
 
-- GitHub: [@JUSTICEMENSAH-ALX](https://github.com/JUSTICEMENSAH-ALX)
-- LinkedIn: [LinkedIn](linkedin.com/in/mensah-blay-justice)
-- Twitter: [@JUSTICEMBLAY](https://twitter.com/justicemensahblaymewube)
+- GitHub: [@benardgomashie](https://github.com/benardgomashie)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/benard-gomashie-7162b735/)
+- Twitter: [@JUSTICEMBLAY](https://twitter.com/BenardGomashie)
 
